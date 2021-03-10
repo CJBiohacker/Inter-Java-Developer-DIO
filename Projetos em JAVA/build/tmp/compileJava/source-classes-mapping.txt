@@ -1,0 +1,10 @@
+exercicios/IF.java
+ exercicios.IF
+exercicios/ExercicioStrings.java
+ exercicios.ExercicioStrings
+exercicios/olámundo.java
+ exercicios.olámundo
+exercicios/OperadorArtimetico.java
+ exercicios.OperadorArtimetico
+exercicios/Strings.java
+ exercicios.Strings
