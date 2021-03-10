@@ -4,12 +4,10 @@ public class OperadorArtimetico {
 
     public static void main(String[] args) {
 
-        final int result = +1;
+        int result = +1;
         // result is now 1
 
         System.out.println("O resultado é " + result);
-
-
 
         System.out.println("Descrescer 1");
         result--;
