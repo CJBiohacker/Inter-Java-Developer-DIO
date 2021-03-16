@@ -1,6 +1,6 @@
 package exercicios;
 
-public class IF {
+public class If {
 
     public static void main(String[] args) {
 
@@ -13,9 +13,9 @@ public class IF {
         }
 
         if (condicao) {
-            System.out.println("Uma unica linha");
+            System.out.print("Uma unica linha");
 
-        final var ternario = condicao ? "é verdadeira" : "é falsa";
+        final var ternario = condicao ? " é verdadeira" : "é falsa";
             System.out.println(ternario);
         }
 

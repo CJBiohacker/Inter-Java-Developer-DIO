@@ -6,5 +6,11 @@ exercicios/olámundo.java
  exercicios.olámundo
 exercicios/OperadorArtimetico.java
  exercicios.OperadorArtimetico
-exercicios/IF.java
- exercicios.IF
+exercicios/Do.java
+ exercicios.Do
+exercicios/While.java
+ exercicios.While
+exercicios/If.java
+ exercicios.If
+exercicios/For.java
+ exercicios.For
