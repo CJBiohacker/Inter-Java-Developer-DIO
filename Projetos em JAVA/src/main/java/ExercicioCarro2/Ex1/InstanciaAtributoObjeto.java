@@ -1,8 +1,6 @@
 package ExercicioCarro2.Ex1;
 
-import ExercicioCarro2.Carro;
-
-public class InstanciaAtributoObjeto {
+class InstanciaAtributoObjeto {
 
     public static void main(String[] args) {
 

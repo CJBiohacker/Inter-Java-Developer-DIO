@@ -1,47 +1,47 @@
-package ExercicioCarro2;
+package ExercicioCarro2.Ex1;
 
-public class Carro {
+class Carro {
 
-    public String Marca, Modelo, Ano, Variante;
+    protected String Marca, Modelo, Ano, Variante;
     /* Declarando os ATRIBUTOS em formato de variáveis do tipo String.
     CONSTRUTOR SEM PASSAGEM DE PARÂMETROS */
 
-    public String getMarca() {
+    protected String getMarca() {
         return Marca;
     }
     /* Definindo o MÉTODO para retorno da variável Marca através do comando getMarca. */
 
-    public void setMarca(String Marca) {
+    protected void setMarca(String Marca) {
         this.Marca = Marca;
     }
     /*Definindo o MÉTODO para configuração da variável Marca através do comando setMarca. */
 
-    public String getModelo() {
+    protected String getModelo() {
         return Modelo;
     }
     /* Definindo o MÉTODO para retorno da variável Modelo através do comando getModelo. */
 
-    public void setModelo(String Modelo) {
+    protected void setModelo(String Modelo) {
         this.Modelo = Modelo;
     }
     /*Definindo o MÉTODO para configuração da variável Modelo através do comando setModelo. */
 
-    public String getAno() {
+    protected String getAno() {
         return Ano;
     }
     /* Definindo o MÉTODO para retorno da variável Ano através do comando getAno. */
 
-    public void setAno(String Ano) {
+    protected void setAno(String Ano) {
         this.Ano = Ano;
     }
     /*Definindo o MÉTODO para configuração da variável Ano através do comando getAno. */
 
-    public String getVariante() {
+    protected String getVariante() {
         return Variante;
     }
     /* Definindo o MÉTODO para retorno da variável Variante através do comando getVariante. */
 
-    public void setVariante(String Variante) {
+    protected void setVariante(String Variante) {
         this.Variante = Variante;
     }
     /*Definindo o MÉTODO para configuração da variável Modelo através do comando getVariante. */
