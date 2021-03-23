@@ -4,9 +4,10 @@ class Carro {
 
     protected String Marca, Modelo, Ano, Variante;
 
-    protected Carro(String Marca) {
+    protected Carro(String Marca, String Modelo, String Ano) {
         this.Marca = Marca;
-
+        this.Modelo = Modelo;
+        this.Ano = Ano;
     }
 
     protected String getMarca() {
