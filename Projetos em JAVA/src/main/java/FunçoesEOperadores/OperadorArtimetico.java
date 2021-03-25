@@ -1,6 +1,6 @@
-package exercicios;
+package FunçoesEOperadores;
 
-public class OperadorArtimetico {
+class OperadorArtimetico {
 
     public static void main(String[] args) {
 

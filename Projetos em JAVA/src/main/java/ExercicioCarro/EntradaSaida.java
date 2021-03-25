@@ -2,7 +2,7 @@ package ExercicioCarro;
 
 import java.util.Scanner;
 
-public class EntradaSaida {
+class EntradaSaida {
 
     public static void main (String[] args) {
 

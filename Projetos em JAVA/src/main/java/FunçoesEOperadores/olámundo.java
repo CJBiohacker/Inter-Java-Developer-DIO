@@ -1,6 +1,6 @@
-package exercicios;
+package FunçoesEOperadores;
 
-public class olámundo {
+class olámundo {
 
     public static void main(String[] args) {
 

@@ -1,18 +1,18 @@
 package ExercicioCarro;
 
-public class Carro {
+class Carro {
 
-    public int quantidade = 5;
+    protected int quantidade = 5;
 
-    public String getqtd() {
+    protected String getqtd() {
         return "Cabem no máximo " + quantidade + " pessoas";
     }
 
-    public String vaga() {
+    protected String vaga() {
         return "Ainda tem vaga no carro.";
     }
 
-    public String lotado() {
+    protected String lotado() {
         return "O carro está cheio de pessoas";
     }
 

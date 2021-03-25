@@ -1,6 +1,6 @@
-package exercicios;
+package FunçoesEOperadores;
 
-public class ExercicioStrings {
+class ExercicioStrings {
 
     public static void main(String[] args) {
 

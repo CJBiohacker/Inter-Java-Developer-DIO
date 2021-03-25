@@ -2,7 +2,7 @@ package ExercicioCarro2.Ex1;
 
 class Carro {
 
-    protected String Marca, Modelo, Ano, Variante;
+    private String Marca, Modelo, Ano, Variante;
     /* Declarando os ATRIBUTOS em formato de variáveis do tipo String.
     CONSTRUTOR SEM PASSAGEM DE PARÂMETROS */
 

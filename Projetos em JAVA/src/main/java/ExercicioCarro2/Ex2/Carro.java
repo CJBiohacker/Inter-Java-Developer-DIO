@@ -2,11 +2,11 @@ package ExercicioCarro2.Ex2;
 
 class Carro {
 
-    protected String Marca, Modelo, Ano, Variante;
+    private String Marca, Modelo, Ano, Variante;
 
     protected Carro () {
-
     }
+
     protected String getMarca() {
         return Marca;
     }

@@ -2,7 +2,7 @@ package ExercicioCarro2.Ex3;
 
 class Carro {
 
-    protected String Marca, Modelo, Ano, Variante;
+    private String Marca, Modelo, Ano, Variante;
 
     protected Carro(String Marca, String Modelo, String Ano) {
         this.Marca = Marca;

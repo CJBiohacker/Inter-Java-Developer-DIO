@@ -1,7 +1,7 @@
-package exercicios;
+package FunçoesEOperadores;
 // declaração de pacote [nome pacote]
 
-public class Strings {
+class Strings {
 // mod. acesso - declaração classe [nome classe]
 
     public static void main(String[] args) {

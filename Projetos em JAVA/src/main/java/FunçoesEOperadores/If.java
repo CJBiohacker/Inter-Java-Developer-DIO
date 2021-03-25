@@ -1,6 +1,6 @@
-package exercicios;
+package FunçoesEOperadores;
 
-public class If {
+class If {
 
     public static void main(String[] args) {
 
