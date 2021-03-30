@@ -1,5 +1,7 @@
 DateCalendarTimeFormat/ExFinalAulaCalendar.java
  DateCalendarTimeFormat.ExFinalAulaCalendar
+FunçoesEOperadores/ExercicioStrings.java
+ FunçoesEOperadores.ExercicioStrings
 FunçoesEOperadores/Pessoa.java
  FunçoesEOperadores.Pessoa
 DateCalendarTimeFormat/LocalDateTimeClass.java
@@ -54,14 +56,16 @@ DateCalendarTimeFormat/LocalDateClass.java
  DateCalendarTimeFormat.LocalDateClass
 DateCalendarTimeFormat/SimpleDateFormatClass.java
  DateCalendarTimeFormat.SimpleDateFormatClass
+DesafiosDIoJava/Desafio1Basico.java
+ DesafiosDIoJava.Desafio1Basico
 ExercicioHerançaPolimorfismo/Atendente.java
  ExercicioHerançaPolimorfismo.Atendente
 Encapsulamento/Ex1.java
  Encapsulamento.Ex1
 DateCalendarTimeFormat/ExFinalLocalDateTime.java
  DateCalendarTimeFormat.ExFinalLocalDateTime
-FunçoesEOperadores/ExercicioStrings.java
- FunçoesEOperadores.ExercicioStrings
+Arrays/Exemplos.java
+ Arrays.Exemplos
 FunçoesEOperadores/ExemploPessoa.java
  FunçoesEOperadores.ExemploPessoa
 ExercicioHerançaPolimorfismo/Supervisor.java
@@ -74,5 +78,7 @@ DateCalendarTimeFormat/CalendarClass.java
  DateCalendarTimeFormat.CalendarClass
 FunçoesEOperadores/ExemploMetodo.java
  FunçoesEOperadores.ExemploMetodo
-Arrays/Exemplos.java
- Arrays.Exemplos
+DesafiosDIoJava/Desafio2Basico.java
+ DesafiosDIoJava.Desafio2Basico
+DesafiosDIoJava/Desafio3Basico.java
+ DesafiosDIoJava.Desafio3Basico
