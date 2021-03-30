@@ -1,4 +1,4 @@
-package ExercicioCarro2.Ex2;
+package ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2;
 
 class Carro {
 

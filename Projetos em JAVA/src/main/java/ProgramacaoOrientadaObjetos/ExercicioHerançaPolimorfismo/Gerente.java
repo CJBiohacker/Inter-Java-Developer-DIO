@@ -1,4 +1,4 @@
-package ExercicioHerançaPolimorfismo;
+package ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo;
 
 class Gerente extends CargoLoja {
 

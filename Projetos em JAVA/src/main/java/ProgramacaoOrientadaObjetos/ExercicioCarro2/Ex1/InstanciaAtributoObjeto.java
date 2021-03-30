@@ -1,4 +1,4 @@
-package ExercicioCarro2.Ex1;
+package ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex1;
 
 class InstanciaAtributoObjeto {
 

@@ -1,7 +1,6 @@
-package Encapsulamento;
+package ProgramacaoOrientadaObjetos.Encapsulamento;
 
 import java.time.LocalDate;
-import java.time.Period;
 
 class Pessoa {
 

@@ -1,4 +1,4 @@
-package Encapsulamento;
+package ProgramacaoOrientadaObjetos.Encapsulamento;
 
 class Ex1 {
 

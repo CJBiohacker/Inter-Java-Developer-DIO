@@ -1,4 +1,4 @@
-package ExercicioHerançaPolimorfismo;
+package ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo;
 
 class Resultado {       //Corrigir casas decimais após a vírgula das taxas de imposto
 

@@ -1,4 +1,4 @@
-package ExercicioCarro;
+package ProgramacaoOrientadaObjetos.ExercicioCarro;
 
 class Carro {
 
