@@ -2,10 +2,14 @@ DateCalendarTimeFormat/ExFinalAulaCalendar.java
  DateCalendarTimeFormat.ExFinalAulaCalendar
 FunçoesEOperadores/Pessoa.java
  FunçoesEOperadores.Pessoa
+DateCalendarTimeFormat/LocalDateTimeClass.java
+ DateCalendarTimeFormat.LocalDateTimeClass
 ExercicioCarro2/Ex3/Carro.java
  ExercicioCarro2.Ex3.Carro
 FunçoesEOperadores/Strings.java
  FunçoesEOperadores.Strings
+DateCalendarTimeFormat/LocalTimeClass.java
+ DateCalendarTimeFormat.LocalTimeClass
 ExercicioCarro/Carro.java
  ExercicioCarro.Carro
 ExercicioHerançaPolimorfismo/CargoLoja.java
@@ -46,14 +50,18 @@ ExercicioCarro2/Ex3/InstanciaAtributoObjeto.java
  ExercicioCarro2.Ex3.InstanciaAtributoObjeto
 DateCalendarTimeFormat/ExFinalSimpleDateFormat.java
  DateCalendarTimeFormat.ExFinalSimpleDateFormat
-FunçoesEOperadores/ExercicioStrings.java
- FunçoesEOperadores.ExercicioStrings
+DateCalendarTimeFormat/LocalDateClass.java
+ DateCalendarTimeFormat.LocalDateClass
 DateCalendarTimeFormat/SimpleDateFormatClass.java
  DateCalendarTimeFormat.SimpleDateFormatClass
 ExercicioHerançaPolimorfismo/Atendente.java
  ExercicioHerançaPolimorfismo.Atendente
 Encapsulamento/Ex1.java
  Encapsulamento.Ex1
+DateCalendarTimeFormat/ExFinalLocalDateTime.java
+ DateCalendarTimeFormat.ExFinalLocalDateTime
+FunçoesEOperadores/ExercicioStrings.java
+ FunçoesEOperadores.ExercicioStrings
 FunçoesEOperadores/ExemploPessoa.java
  FunçoesEOperadores.ExemploPessoa
 ExercicioHerançaPolimorfismo/Supervisor.java
@@ -66,11 +74,5 @@ DateCalendarTimeFormat/CalendarClass.java
  DateCalendarTimeFormat.CalendarClass
 FunçoesEOperadores/ExemploMetodo.java
  FunçoesEOperadores.ExemploMetodo
-DateCalendarTimeFormat/LocalDateClass.java
- DateCalendarTimeFormat.LocalDateClass
-DateCalendarTimeFormat/LocalDateTimeClass.java
- DateCalendarTimeFormat.LocalDateTimeClass
-DateCalendarTimeFormat/LocalTimeClass.java
- DateCalendarTimeFormat.LocalTimeClass
-DateCalendarTimeFormat/ExFinalLocalDateTime.java
- DateCalendarTimeFormat.ExFinalLocalDateTime
+Arrays/Exemplos.java
+ Arrays.Exemplos
