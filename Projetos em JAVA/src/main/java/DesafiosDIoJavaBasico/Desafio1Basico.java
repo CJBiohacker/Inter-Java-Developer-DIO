@@ -1,4 +1,4 @@
-package DesafiosDIoJava;
+package DesafiosDIoJavaBasico;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package DesafiosDIoJava;
+package DesafiosDIoJavaBasico;
 
 import java.util.Scanner;
 
