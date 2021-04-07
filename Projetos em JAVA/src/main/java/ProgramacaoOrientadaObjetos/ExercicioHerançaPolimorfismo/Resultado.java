@@ -24,7 +24,7 @@ class Resultado {  //Corrigir casas decimais após a vírgula das taxas de impos
 
         System.out.println("|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|");
         System.out.println("|             Lajä Records             |");
-        System.out.println("|______________________________________| ");
+        System.out.println("|______________________________________|");
         System.out.println("----------------------------------------");
         System.out.println("         Quadro de Funcionários         ");
         System.out.println("----------------------------------------");
