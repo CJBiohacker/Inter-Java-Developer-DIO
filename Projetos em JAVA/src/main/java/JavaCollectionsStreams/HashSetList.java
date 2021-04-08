@@ -5,6 +5,7 @@ import java.util.Set;
 import java.util.Iterator;
 
 class HashSetList {
+
     public static void main(String[] args) {
 
         Set<Double> notaTurma = new HashSet<>();

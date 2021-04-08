@@ -6,6 +6,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 class HashSetList2 {
+
     public static void main(String[] args) {
 
         Set<Integer> notaTurma = new HashSet<>();

@@ -8,8 +8,8 @@ ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex3/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex3.Carro
 DateCalendarTimeFormat/LocalTimeClass.java
  DateCalendarTimeFormat.LocalTimeClass
-JavaCollectionsStreams/TreeSetList.java
- JavaCollectionsStreams.TreeSetList
+FunçoesEOperadores/If.java
+ FunçoesEOperadores.If
 DateCalendarTimeFormat/CurrentTimeMillis.java
  DateCalendarTimeFormat.CurrentTimeMillis
 ProgramacaoOrientadaObjetos/ExercicioCarro/Carro.java
@@ -52,10 +52,10 @@ ProgramacaoOrientadaObjetos/ExercicioHerançaPolimorfismo/Supervisor.java
  ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo.Supervisor
 FunçoesEOperadores/Strings.java
  FunçoesEOperadores.Strings
-JavaCollectionsStreams/LinkedHashSetList.java
- JavaCollectionsStreams.LinkedHashSetList
-JavaCollectionsStreams/HashSetList.java
- JavaCollectionsStreams.HashSetList
+DateCalendarTimeFormat/CalendarClass.java
+ DateCalendarTimeFormat.CalendarClass
+ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex2/Carro.java
+ ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2.Carro
 JavaCollectionsStreams/QueueList.java
  JavaCollectionsStreams.QueueList
 JavaCollectionsStreams/ArrayListCollectionsIterator.java
@@ -86,13 +86,15 @@ FunçoesEOperadores/ExemploPessoa.java
  FunçoesEOperadores.ExemploPessoa
 ProgramacaoOrientadaObjetos/ExercicioCarro/QuantidadePessoas.java
  ProgramacaoOrientadaObjetos.ExercicioCarro.QuantidadePessoas
-FunçoesEOperadores/If.java
- FunçoesEOperadores.If
-DateCalendarTimeFormat/CalendarClass.java
- DateCalendarTimeFormat.CalendarClass
-ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex2/Carro.java
- ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2.Carro
-JavaCollectionsStreams/VectorList.java
- JavaCollectionsStreams.VectorList
 JavaCollectionsStreams/HashSetList2.java
  JavaCollectionsStreams.HashSetList2
+JavaCollectionsStreams/TreeSetList.java
+ JavaCollectionsStreams.TreeSetList
+JavaCollectionsStreams/LinkedHashSetList.java
+ JavaCollectionsStreams.LinkedHashSetList
+JavaCollectionsStreams/HashSetList.java
+ JavaCollectionsStreams.HashSetList
+JavaCollectionsStreams/VectorList.java
+ JavaCollectionsStreams.VectorList
+JavaCollectionsStreams/HashMapList.java
+ JavaCollectionsStreams.HashMapList

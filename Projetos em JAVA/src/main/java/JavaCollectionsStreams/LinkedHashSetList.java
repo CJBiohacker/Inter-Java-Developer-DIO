@@ -4,6 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Iterator;
 
 class LinkedHashSetList {
+
     public static void main(String[] args) {
 
         LinkedHashSet<Integer> seqNum = new LinkedHashSet<>();

@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Vector;
 
 class VectorList {
+
     public static void main(String[] args) {
 
         List<String> listaJogo = new Vector<>();
