@@ -1,6 +1,6 @@
 package ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo;
 
-class Resultado {  //Corrigir casas decimais após a vírgula das taxas de imposto
+class Resultado {  // Corrigir casas decimais após a vírgula das taxas de imposto, na hora da impressão.
 
     public static void main(String[] args) {
 
