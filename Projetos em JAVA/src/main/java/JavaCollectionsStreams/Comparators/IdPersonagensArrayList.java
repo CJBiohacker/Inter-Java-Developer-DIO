@@ -28,6 +28,11 @@ class IdPersonagensArrayList {
         System.out.println("\n    -Organizando o nome dos NPC's em ordem Alfabética.");
         System.out.println(IdPersonagem);
 
+        //Utilizando a função omparing da Interface Comparator para classificar em ordem decrescente o level.
+        IdPersonagem.sort(Comparator.comparingInt(PersonagemRPG::getLevel).reversed());
+        System.out.println("\n    -Organizando level dos NPC's em ordem Decrescente.");
+        System.out.println(IdPersonagem);
+
 
     }
 

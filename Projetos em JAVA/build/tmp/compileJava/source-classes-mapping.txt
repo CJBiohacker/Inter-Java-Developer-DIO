@@ -100,9 +100,9 @@ ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex2/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2.Carro
 Arrays/Exemplos.java
  Arrays.Exemplos
-JavaCollectionsStreams/Comparators/IdPersonagensArrayList.java
- JavaCollectionsStreams.Comparators.IdPersonagensArrayList
-JavaCollectionsStreams/Comparators/PersonagemRPG.java
- JavaCollectionsStreams.Comparators.PersonagemRPG
 JavaCollectionsStreams/Comparators/LevelComparatorObject.java
  JavaCollectionsStreams.Comparators.LevelComparatorObject
+JavaCollectionsStreams/Comparators/PersonagemRPG.java
+ JavaCollectionsStreams.Comparators.PersonagemRPG
+JavaCollectionsStreams/Comparators/IdPersonagensArrayList.java
+ JavaCollectionsStreams.Comparators.IdPersonagensArrayList
