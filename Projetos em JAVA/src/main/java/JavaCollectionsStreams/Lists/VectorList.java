@@ -1,4 +1,4 @@
-package JavaCollectionsStreams;
+package JavaCollectionsStreams.Lists;
 
 import java.util.List;
 import java.util.Vector;

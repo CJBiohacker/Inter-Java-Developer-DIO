@@ -1,4 +1,4 @@
-package JavaCollectionsStreams;
+package JavaCollectionsStreams.SetLists;
 
 import java.util.LinkedHashSet;
 import java.util.Iterator;

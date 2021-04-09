@@ -1,4 +1,4 @@
-package JavaCollectionsStreams;
+package JavaCollectionsStreams.SetLists;
 
 import java.util.Iterator;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package JavaCollectionsStreams;
+package JavaCollectionsStreams.Maps;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -60,14 +60,11 @@ class HashMapList {
             System.out.println(key + "  HP = " + criaturasValheim.get(key));
         }
 
+        System.out.println("\n    -Limpando a Tabela de Criaturas\n");
+        criaturasValheim.clear();
+        System.out.println("Quantidade atual = " + criaturasValheim.size());
 
-
-
-
-
-
-
-
+        System.out.println(criaturasValheim.get("Moder"));
 
     }
 

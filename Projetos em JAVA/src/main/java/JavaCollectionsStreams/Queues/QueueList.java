@@ -1,4 +1,4 @@
-package JavaCollectionsStreams;
+package JavaCollectionsStreams.Queues;
 
 import java.util.Collections;
 import java.util.Iterator;
