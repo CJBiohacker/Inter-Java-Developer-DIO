@@ -16,6 +16,8 @@ ProgramacaoOrientadaObjetos/ExercicioCarro/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro.Carro
 FunçoesEOperadores/Do.java
  FunçoesEOperadores.Do
+ProgramacaoOrientadaObjetos/ExercicioCarro/EntradaSaida.java
+ ProgramacaoOrientadaObjetos.ExercicioCarro.EntradaSaida
 FunçoesEOperadores/For.java
  FunçoesEOperadores.For
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex1/InstanciaAtributoObjeto.java
@@ -24,8 +26,10 @@ DesafiosDIoJavaBasico/Desafio1Basico.java
  DesafiosDIoJavaBasico.Desafio1Basico
 FunçoesEOperadores/olámundo.java
  FunçoesEOperadores.olámundo
-ProgramacaoOrientadaObjetos/ExercicioCarro/EntradaSaida.java
- ProgramacaoOrientadaObjetos.ExercicioCarro.EntradaSaida
+JavaCollectionsStreams/Maps/HashMapList.java
+ JavaCollectionsStreams.Maps.HashMapList
+JavaCollectionsStreams/Comparators/LevelComparatorObject.java
+ JavaCollectionsStreams.Comparators.LevelComparatorObject
 DateCalendarTimeFormat/LocalDateClass.java
  DateCalendarTimeFormat.LocalDateClass
 DateCalendarTimeFormat/SimpleDateFormatClass.java
@@ -60,10 +64,14 @@ ProgramacaoOrientadaObjetos/ExercicioHerançaPolimorfismo/Supervisor.java
  ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo.Supervisor
 FunçoesEOperadores/Strings.java
  FunçoesEOperadores.Strings
+JavaCollectionsStreams/Comparators/PersonagemRPG.java
+ JavaCollectionsStreams.Comparators.PersonagemRPG
 JavaCollectionsStreams/SetLists/LinkedHashSetList.java
  JavaCollectionsStreams.SetLists.LinkedHashSetList
 DesafiosDIoJavaBasico/Desafio3Basico.java
  DesafiosDIoJavaBasico.Desafio3Basico
+JavaCollectionsStreams/Comparators/IdPersonagensArrayList.java
+ JavaCollectionsStreams.Comparators.IdPersonagensArrayList
 FunçoesEOperadores/While.java
  FunçoesEOperadores.While
 ProgramacaoOrientadaObjetos/ExercicioHerançaPolimorfismo/Gerente.java
@@ -84,8 +92,8 @@ ProgramacaoOrientadaObjetos/Encapsulamento/Pessoa.java
  ProgramacaoOrientadaObjetos.Encapsulamento.Pessoa
 ProgramacaoOrientadaObjetos/Encapsulamento/Ex1.java
  ProgramacaoOrientadaObjetos.Encapsulamento.Ex1
-JavaCollectionsStreams/Maps/HashMapList.java
- JavaCollectionsStreams.Maps.HashMapList
+Arrays/Exemplos.java
+ Arrays.Exemplos
 FunçoesEOperadores/ExemploPessoa.java
  FunçoesEOperadores.ExemploPessoa
 JavaCollectionsStreams/Queues/QueueList.java
@@ -98,11 +106,5 @@ DateCalendarTimeFormat/CalendarClass.java
  DateCalendarTimeFormat.CalendarClass
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex2/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2.Carro
-Arrays/Exemplos.java
- Arrays.Exemplos
-JavaCollectionsStreams/Comparators/LevelComparatorObject.java
- JavaCollectionsStreams.Comparators.LevelComparatorObject
-JavaCollectionsStreams/Comparators/PersonagemRPG.java
- JavaCollectionsStreams.Comparators.PersonagemRPG
-JavaCollectionsStreams/Comparators/IdPersonagensArrayList.java
- JavaCollectionsStreams.Comparators.IdPersonagensArrayList
+JavaCollectionsStreams/Optionals/OptionalsExercFinal.java
+ JavaCollectionsStreams.Optionals.OptionalsExercFinal
