@@ -12,8 +12,6 @@ class OptionalsExercFinal {
         Optional <String> OptEntryB = Optional.of("Presente");
         Optional <String> OptEntryC = Optional.ofNullable(null);
 
-
-
         /* Checando o Optional com entrada VAZIA no método ifPresenteOrElse. Se a entrada estiver no estado PRESENTE,
         retornará o "valor" do OptEntryA, caso contrário, estando no VAZIO retorna a mensagem "Optional Vazio"
         e lança uma IllegalStateException */

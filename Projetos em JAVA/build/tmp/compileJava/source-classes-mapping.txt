@@ -2,6 +2,8 @@ DateCalendarTimeFormat/ExFinalAulaCalendar.java
  DateCalendarTimeFormat.ExFinalAulaCalendar
 ProgramacaoOrientadaObjetos/ExercicioHerançaPolimorfismo/Resultado.java
  ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo.Resultado
+JavaCollectionsStreams/Streams/ExFINAL.java
+ JavaCollectionsStreams.Streams.ExFINAL
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex3/InstanciaAtributoObjeto.java
  ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex3.InstanciaAtributoObjeto
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex3/Carro.java
@@ -16,8 +18,8 @@ ProgramacaoOrientadaObjetos/ExercicioCarro/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro.Carro
 FunçoesEOperadores/Do.java
  FunçoesEOperadores.Do
-ProgramacaoOrientadaObjetos/ExercicioCarro/EntradaSaida.java
- ProgramacaoOrientadaObjetos.ExercicioCarro.EntradaSaida
+JavaCollectionsStreams/Optionals/OptionalsExercFinal.java
+ JavaCollectionsStreams.Optionals.OptionalsExercFinal
 FunçoesEOperadores/For.java
  FunçoesEOperadores.For
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex1/InstanciaAtributoObjeto.java
@@ -34,6 +36,8 @@ DateCalendarTimeFormat/LocalDateClass.java
  DateCalendarTimeFormat.LocalDateClass
 DateCalendarTimeFormat/SimpleDateFormatClass.java
  DateCalendarTimeFormat.SimpleDateFormatClass
+JavaCollectionsStreams/Streams/Estudante.java
+ JavaCollectionsStreams.Streams.Estudante
 DateCalendarTimeFormat/ExFinalLocalDateTime.java
  DateCalendarTimeFormat.ExFinalLocalDateTime
 JavaCollectionsStreams/Lists/VectorList.java
@@ -76,6 +80,8 @@ FunçoesEOperadores/While.java
  FunçoesEOperadores.While
 ProgramacaoOrientadaObjetos/ExercicioHerançaPolimorfismo/Gerente.java
  ProgramacaoOrientadaObjetos.ExercicioHerançaPolimorfismo.Gerente
+ProgramacaoOrientadaObjetos/ExercicioCarro/EntradaSaida.java
+ ProgramacaoOrientadaObjetos.ExercicioCarro.EntradaSaida
 DateCalendarTimeFormat/ExFinalAulaDate.java
  DateCalendarTimeFormat.ExFinalAulaDate
 JavaCollectionsStreams/Lists/ArrayListCollectionsIterator.java
@@ -106,5 +112,5 @@ DateCalendarTimeFormat/CalendarClass.java
  DateCalendarTimeFormat.CalendarClass
 ProgramacaoOrientadaObjetos/ExercicioCarro2/Ex2/Carro.java
  ProgramacaoOrientadaObjetos.ExercicioCarro2.Ex2.Carro
-JavaCollectionsStreams/Optionals/OptionalsExercFinal.java
- JavaCollectionsStreams.Optionals.OptionalsExercFinal
+JavaCollectionsStreams/Streams/ExercFinalStreams.java
+ JavaCollectionsStreams.Streams.ExercFinalStreams

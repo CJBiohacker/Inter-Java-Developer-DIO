@@ -7,7 +7,7 @@ class PersonagemRPG implements Comparable<PersonagemRPG> {
     private final int level;
 
     //Construtor
-    protected PersonagemRPG ( String nome, Integer level) {
+    protected PersonagemRPG (String nome, Integer level) {
         this.nome = nome;
         this.level = level;
     }
