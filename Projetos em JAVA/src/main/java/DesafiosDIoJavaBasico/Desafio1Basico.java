@@ -20,6 +20,6 @@ public class Desafio1Basico {
 
         int b = Integer.parseInt(st.nextToken());
         int total = a*b; // Altere o valor da variável com o cálculo esperado
-        System.out.println("PROD = " + total);
+        System.out.println("PROD = "+ a + " x " + b + " = " + total);
     }
 }

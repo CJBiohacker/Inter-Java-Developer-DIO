@@ -10,7 +10,7 @@ public class Desafio3Basico {
         System.out.print("Digite o valor de entrada: ");
         int num = entrada.nextInt();
         System.out.println("\nNúmeros Ímpares menor que o valor de Entrada");
-        for (int i = 1; i <= num; i = i + 2) { //complete seu codigo aqui
+        for (int i = 1; i <= num; i = i + 2) { //complete seu código aqui
             System.out.println("Valor: " + i);
         }
     }
